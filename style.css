@@ -1,0 +1,66 @@
+h1{
+    font-size: 2rem; 
+}
+p{
+    font-size: 2rem;
+}
+
+.header {
+    padding: 60px;
+    text-align: center;
+    background: #d362cd;
+    color: white;
+    font-size: 3rem;
+  }
+
+.topnav {
+    background-color: #d362cd;
+    overflow: hidden;
+}
+
+a:visited { color: #A81CA5; }
+
+.topnav a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    text-decoration: none;
+    font-size: 2rem;
+}
+
+.topnav a.active {
+    background-color: rgb(151, 150, 150);
+    color: black;
+}
+
+.topnav a:hover {
+    background-color: rgb(151, 150, 150);
+    color: black;
+}
+
+.topnav a:visited {
+    color: white;
+}
+
+a:link { 
+    color: 2346C8; 
+    font-size: 2rem;
+} 
+
+a:hover, a:focus { 
+    color: #7C7EEF; 
+}
+
+a:active { color: #FF1A1A; } 
+
+
+ul{
+    font-size: 2rem;
+}
+
+.floatleft {
+    float: left; 
+    width: 200px;
+    padding: 20px 40px;
+}
