@@ -87,9 +87,12 @@ ol{
     padding: 20px 40px;
 }
 
-.center{
-    text-align: center;
-}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
 
 .floatright {
     float: right; 
@@ -102,3 +105,20 @@ ol{
     font-size: 1.5rem;
     background:  #8a2ec7;
 }
+
+div.polaroid {
+    width: 65%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgb(87, 31, 109);
+    margin-bottom: 20px;
+    margin-top: 20px
+  }
+  
+  div.container {
+    text-align: center;
+    padding: 10px 20px;
+  }
+
+  img{
+      padding: 10px;
+  }
