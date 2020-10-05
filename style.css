@@ -1,20 +1,33 @@
 h1{
     font-size: 2rem; 
 }
+
+h2{
+    font-size:1rem;
+}
+h3{
+    font-size: 1rem;
+}
 p{
-    font-size: 2rem;
+    font-size: 1rem;
+}
+
+.paddedbox {
+    padding: 10px 5px 3px 8px; 
+    padding: 8px 12px;        
+    padding: 10px;            
 }
 
 .header {
     padding: 60px;
     text-align: center;
-    background: #d362cd;
+    background: #8a2ec7;
     color: white;
-    font-size: 3rem;
+    font-size: 2rem;
   }
 
 .topnav {
-    background-color: #d362cd;
+    background-color: #8a2ec7;
     overflow: hidden;
 }
 
@@ -26,17 +39,22 @@ a:visited { color: #A81CA5; }
     text-align: center;
     padding: 15px;
     text-decoration: none;
-    font-size: 2rem;
+    font-size: 1rem;
 }
 
 .topnav a.active {
     background-color: rgb(151, 150, 150);
-    color: black;
+    color: white;
+}
+
+.topnav a.active:hover {
+    background-color: rgb(151, 150, 150);
+    color: white;
 }
 
 .topnav a:hover {
-    background-color: rgb(151, 150, 150);
-    color: black;
+    background-color: rgb(87, 31, 109);
+    color: white;
 }
 
 .topnav a:visited {
@@ -45,7 +63,7 @@ a:visited { color: #A81CA5; }
 
 a:link { 
     color: 2346C8; 
-    font-size: 2rem;
+    font-size: 1rem;
 } 
 
 a:hover, a:focus { 
@@ -56,11 +74,31 @@ a:active { color: #FF1A1A; }
 
 
 ul{
-    font-size: 2rem;
+    font-size: 1rem;
+}
+
+ol{
+    font-size: 1rem;
 }
 
 .floatleft {
     float: left; 
     width: 200px;
     padding: 20px 40px;
+}
+
+.center{
+    text-align: center;
+}
+
+.floatright {
+    float: right; 
+    width: 200px;
+    padding: 20px 40px;
+}
+.highlight {
+    font-weight: bold;  
+    color: white;
+    font-size: 1.5rem;
+    background:  #8a2ec7;
 }
