@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Im a Software Engineer currently working on front end technologies at a financial firm.
+
+I use this space to upload school projects from college and my masters.
+
 <!--
 **kierawilson25/kierawilson25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
