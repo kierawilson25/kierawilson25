@@ -1,8 +1,13 @@
-### Hi there 👋
+### Welcome 👋
 
-Im a Software Engineer currently working on front end technologies at a financial firm.
+My name is Kiera Wilson 
 
-I use this space to upload school projects from college and my masters.
+I am a creative problem solver at heart,
+
+and a Software Engineer by day.
+
+
+This space is a collection of projects I have worked on starting with undergrad. I have an undergraduate degree in Computer Science and I am currently pursing my Masters in Software Engineering at my alma matter, University of St. Thomas. 
 
 <!--
 **kierawilson25/kierawilson25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
