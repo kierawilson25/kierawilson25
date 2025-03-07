@@ -9,6 +9,8 @@ and a Software Engineer by day.
 
 This space is a collection of projects I have worked on starting with undergrad. I have an undergraduate degree in Computer Science and I am currently pursing my Masters in Software Engineering at my alma matter, University of St. Thomas. 
 
+Click around to see what I've been working on lately. 
+
 <!--
 **kierawilson25/kierawilson25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
