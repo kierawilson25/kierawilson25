@@ -1,6 +1,6 @@
-### Welcome 👋
+### ✨ Welcome 👋 ✨
 
-My name is Kiera Wilson 
+My name is Kiera Wilson.
 
 I am a creative problem solver at heart,
 
@@ -8,6 +8,9 @@ and a Software Engineer by day.
 
 
 This space is a collection of projects I have worked on starting with undergrad. I have an undergraduate degree in Computer Science and I am currently pursing my Masters in Software Engineering at my alma matter, University of St. Thomas. 
+
+You can learn more about my professional experience at [TheKieraWilson.com](https://www.thekierawilson.com/ "portfolio site").
+
 
 Click around to see what I've been working on lately. 
 
